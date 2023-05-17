@@ -1,0 +1,5 @@
+# dioxus build dir
+dist/
+
+# tailwind output
+public/tailwind.css

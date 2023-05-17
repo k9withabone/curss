@@ -1,0 +1,17 @@
+[package]
+name = "curss"
+version = "0.0.1"
+authors.workspace = true
+edition = "2021"
+description.workspace = true
+readme.workspace = true
+repository = "https://github.com/k9withabone/curss/tree/main/curss"
+license.workspace = true
+keywords.workspace = true
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { version = "4.2.7", features = ["derive"] }
+curss_server = { version = "0.0.1", path = "../curss_server" }
+tokio = { version = "1.28.1", features = ["full"] }

@@ -1,0 +1,24 @@
+{
+    "cSpell.words": [
+        "curss",
+        "Dioxus",
+        "healthcheck",
+        "mprocs",
+        "procs",
+        "rustup",
+        "tailwindcss"
+    ],
+    "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
+        "curss",
+        "dioxus",
+        "mprocs",
+        "rustup",
+        "tailwindcss"
+    ],
+    "tailwindCSS.experimental.classRegex": [
+        "class: \"(.*)\""
+    ],
+    "tailwindCSS.includeLanguages": {
+        "rust": "html"
+    }
+}

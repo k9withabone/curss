@@ -1,0 +1,30 @@
+# mprocs.yaml
+# For use with [mprocs](https://github.com/pvolok/mprocs)
+
+procs:
+  server:
+    cmd:
+      [
+        "cargo",
+        "run",
+        "-p",
+        "curss",
+        "--",
+        "--client-dir",
+        "curss_client/dist/",
+      ]
+  tailwind:
+    cwd: curss_client/
+    cmd:
+      [
+        "npx",
+        "tailwindcss",
+        "-i",
+        "input.css",
+        "-o",
+        "public/tailwind.css",
+        "--watch",
+      ]
+  dioxus:
+    cwd: curss_client/
+    cmd: ["dioxus", "serve"]

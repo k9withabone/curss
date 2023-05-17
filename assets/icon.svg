@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600"
+   height="600"
+   viewBox="0 0 600 600"
+   version="1.1"
+   id="svg255"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style540">
+   circle { fill:black; }
+   path { stroke:black; }
+   @media (prefers-color-scheme: dark) {
+      path { stroke: white; }
+      circle { fill: white; }
+   }
+   </style>
+  <defs
+     id="defs252" />
+  <g
+     id="layer1">
+    <g
+       id="c"
+       transform="matrix(960.24839,0,0,960.24839,-537.30321,-899.2205)"
+       style="display:inline">
+      <path
+         style="fill:none;stroke-width:0.0694444;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         id="path448-8-0-6-7"
+         d="m 1.0108237,1.4894275 a 0.27777779,0.27777779 0 0 1 -0.35167901,-0.06201 0.27777779,0.27777779 0 0 1 2e-8,-0.3571042 0.27777779,0.27777779 0 0 1 0.35167899,-0.06201" />
+      <path
+         style="fill:none;stroke-width:0.0694444;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         id="path448-0-7-0-7-53"
+         d="m 0.94485149,1.3751603 a 0.14583333,0.14583333 0 0 1 -0.18463147,-0.032556 0.14583333,0.14583333 0 0 1 0,-0.1874797 0.14583333,0.14583333 0 0 1 0.18463148,-0.032555" />
+      <circle
+         style="stroke:none;stroke-width:0.0694445;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+         id="path1006-0-4-5-56"
+         cx="0.87193483"
+         cy="1.2488649"
+         r="0.034722224" />
+    </g>
+  </g>
+</svg>

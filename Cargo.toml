@@ -1,0 +1,11 @@
+[workspace]
+members = ["curss", "curss_server", "curss_client"]
+
+[workspace.package]
+authors = ["Paul Nettleton <k9@k9withabone.dev>"]
+edition = "2021"
+description = "RSS feed aggregator web app with notifications"
+readme = "README.md"
+repository = "https://github.com/k9withabone/curss"
+license = "GPL-3.0-or-later"
+keywords = ["rss"]

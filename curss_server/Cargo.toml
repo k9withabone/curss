@@ -1,0 +1,16 @@
+[package]
+name = "curss_server"
+version = "0.0.1"
+authors.workspace = true
+edition = "2021"
+description.workspace = true
+readme.workspace = true
+repository = "https://github.com/k9withabone/curss/tree/main/curss_server"
+license.workspace = true
+keywords.workspace = true
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+axum = "0.6.18"
+tower-http = { version = "0.4.0", features = ["fs"] }
